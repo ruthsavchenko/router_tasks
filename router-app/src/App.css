@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  box-sizing: content-box;
+  background: #eaebec;
+  font-family: "Open Sans", sans-serif;
+  width: 100%;
+  min-height: 100vh;
+  height: 100%;
+}
